@@ -11,7 +11,7 @@
 
 - 📬 How to reach me **antoniza.developer@gmail.com**
 
-- ✍ I'm currently learning **NextJs, SASS and Web3**
+- ✍ I'm currently learning **PHP 8**
 
 <div align="left">
     <h3> 🔨 Languages and Tools </h3>
