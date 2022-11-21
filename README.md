@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="">
+    <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif" alt="">
     <h1 align="center">Hello 👋, I'm Antoniza</h1>
     <h3 align="center">A passionate web full stack developer from Honduras. I like to work in new ideas and new challenges that make me improve
         every day and althrough i may be somewhat inexperienced in some things, i work hard to overcome them and thus be able to support my entire work team.
