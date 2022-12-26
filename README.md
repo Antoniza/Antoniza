@@ -11,7 +11,7 @@
 
 - 📬 How to reach me **antoniza.developer@gmail.com**
 
-- ✍ I'm currently learning **Flutter Dart**
+- ✍ I'm currently learning **Xamarin Forms**
 
 <div align="left">
     <h3> 🔨 Languages and Tools </h3>
